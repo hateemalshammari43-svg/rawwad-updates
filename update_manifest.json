@@ -1,0 +1,9 @@
+{
+  "version": "1.2.4",
+  "released_at": "2026-11-07",
+  "notes": "إلغاء رسائل الخطأ المنبثقة والاكتفاء بصوت الخطأ مع اهتزاز الخيار لتمكين الطالب من المحاولة حتى يحل المسألة",
+  "package_filename": "Rawwad_Update_latest.lghupdate",
+  "versioned_filename": "Rawwad_Update_v1.2.4.lghupdate",
+  "package_sha256": "50d83d5ae44ef1f85660ac4af3e1ce12b7bc9a37572e2e0109c29a8cd1a7df28",
+  "download_url": "https://github.com/hateemalshammari43-svg/rawwad-updates/raw/main/Rawwad_Update_latest.lghupdate"
+}
